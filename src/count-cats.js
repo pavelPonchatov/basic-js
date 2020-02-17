@@ -11,6 +11,5 @@ module.exports = function countCats(arr) {
   return res;
 
 
-  throw 'Not implemented';
   
 };
